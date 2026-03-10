@@ -44,26 +44,7 @@ Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aprimorar
 
 </div>
 
----
-
-## 🌐 Conecte-se comigo
-
-<div align="center">
-
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL](https://www.linkedin.com/in/guilherme-moraes-franco-b4b1a0353/))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ognistie)
-
-</div>
-
----
-
-<div align="center">
-
-> *"A automação não é sobre substituir pessoas — é sobre liberar pessoas para fazerem o que realmente importa."*
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ognistie.ognistie)
 
 **Always learning. Always building. 🚀**
 
-</div>
-](https://www.linkedin.com/in/guilherme-moraes-franco-b4b1a0353/)
+
