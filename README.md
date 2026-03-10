@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 <img src="./banner.png" alt="Banner Guilherme Moraes" width="100%"/>
 
