@@ -1,15 +1,8 @@
 <div align="center">
 
-```
-██╗  ██╗██╗   ██╗██████╗
-╚██╗██╔╝╚██╗ ██╔╝██╔══██╗
- ╚███╔╝  ╚████╔╝ ██████╔╝
- ██╔██╗   ╚██╔╝  ██╔══██╗
-██╔╝ ██╗   ██║   ██████╔╝
-╚═╝  ╚═╝   ╚═╝   ╚═════╝
-```
+![Banner Guilherme Moraes](./banner.png)
 
-# Olá, eu sou **[Seu Nome]** 👋
+# OLá, Eu sou **Guilherme]** 👋
 
 ### IT Intern · Cloud Enthusiast · CS Student
 
@@ -20,22 +13,11 @@
 ---
 
 ## 🧑‍💻 Sobre mim
+Atualmente atuo como estagiário de TI na IT Universe e Estudante de Ciência da Computação. 
+com conhecimentos em administração, operação e monitoramento de sistemas. Tenho experiência com plataformas de computação em nuvem (AWS e Azure), programação em Python e sistemas operacionais Linux, com foco em automação, infraestrutura e suporte técnico.
 
-```python
-class Developer:
-    def __init__(self):
-        self.nome       = "[Seu Nome]"
-        self.cargo      = "Estagiário de TI @ IT Universe"
-        self.formação   = "Ciência da Computação"
-        self.foco       = ["DevOps", "Cloud Computing", "Automação"]
-        self.aprendendo = ["Terraform", "Docker", "CI/CD Pipelines"]
-        self.objetivo   = "Construir soluções inovadoras e eficientes"
+Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aprimorar minhas habilidades nas áreas de DevOps, Cloud Computing e Linux. Meu objetivo é contribuir para a criação de soluções inovadoras e eficientes, que agreguem valor aos processos e resultados das organizações. 
 
-    def missão(self):
-        return "Transformar infraestrutura em código e processos em automação."
-```
-
----
 
 ## 🚀 Tech Stack
 
@@ -59,32 +41,6 @@ class Developer:
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎯 Foco Atual
-
-```
-🔭  Trabalhando com administração, operação e monitoramento de sistemas na IT Universe
-🌱  Aprofundando conhecimentos em AWS, Azure e práticas DevOps
-⚡  Explorando automação de infraestrutura com Python e ferramentas IaC
-🎓  Cursando Ciência da Computação
-🤝  Aberto a colaborações em projetos de Cloud e Automação
-```
-
----
 
 ## 🌐 Conecte-se comigo
 
