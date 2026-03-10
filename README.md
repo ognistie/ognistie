@@ -22,7 +22,7 @@ Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aprimorar
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Stacks
 
 <div align="center">
 
