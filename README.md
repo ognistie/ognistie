@@ -1,8 +1,8 @@
 <div align="center">
 
-![Banner Guilherme Moraes](./banner.png)
+<img src="./banner.png" alt="Banner Guilherme Moraes" width="100%"/>
 
-# OLá, Eu sou **Guilherme]** 👋
+# Olá, eu sou **Guilherme Moraes** 👋
 
 ### IT Intern · Cloud Enthusiast · CS Student
 
@@ -13,11 +13,14 @@
 ---
 
 ## 🧑‍💻 Sobre mim
-Atualmente atuo como estagiário de TI na IT Universe e Estudante de Ciência da Computação. 
-com conhecimentos em administração, operação e monitoramento de sistemas. Tenho experiência com plataformas de computação em nuvem (AWS e Azure), programação em Python e sistemas operacionais Linux, com foco em automação, infraestrutura e suporte técnico.
 
-Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aprimorar minhas habilidades nas áreas de DevOps, Cloud Computing e Linux. Meu objetivo é contribuir para a criação de soluções inovadoras e eficientes, que agreguem valor aos processos e resultados das organizações. 
+Atualmente atuo como estagiário de TI na **IT Universe** e sou estudante de **Ciência da Computação**, com conhecimentos em administração, operação e monitoramento de sistemas.
 
+Tenho experiência com plataformas de computação em nuvem (**AWS** e **Azure**), programação em **Python** e sistemas operacionais **Linux**, com foco em automação, infraestrutura e suporte técnico.
+
+Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aprimorar minhas habilidades nas áreas de **DevOps**, **Cloud Computing** e **Linux**. Meu objetivo é contribuir para a criação de soluções inovadoras e eficientes, que agreguem valor aos processos e resultados das organizações.
+
+---
 
 ## 🚀 Tech Stack
 
@@ -41,6 +44,7 @@ Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aprimorar
 
 </div>
 
+---
 
 ## 🌐 Conecte-se comigo
 
@@ -48,7 +52,7 @@ Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aprimorar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ognistie)
 
 </div>
 
@@ -58,7 +62,7 @@ Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aprimorar
 
 > *"A automação não é sobre substituir pessoas — é sobre liberar pessoas para fazerem o que realmente importa."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ognistie.ognistie)
 
 **Always learning. Always building. 🚀**
 
