@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="./banner.png" alt="Banner Guilherme Moraes" width="100%"/>
 
@@ -66,3 +66,4 @@ Sou apaixonado por tecnologia e aprendizado contínuo, buscando sempre aprimorar
 **Always learning. Always building. 🚀**
 
 </div>
+](https://www.linkedin.com/in/guilherme-moraes-franco-b4b1a0353/)
