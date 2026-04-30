@@ -81,38 +81,6 @@ Meu foco principal está em **Cloud Computing**, **DevOps** e **automação de i
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 
----
-
-## 📜 Certificações e Estudos
-
-### ☁️ Cloud Computing
-| Certificação | Emissor |
-|---|---|
-| AWS Cloud Practitioner | SENAI |
-| AZ-900 Azure Fundamentals | SENAI |
-| Cloud Fundamentals & Solution Architect | FIAP |
-| IBM Cloud – Cloud Computing Fundamentals | IBM SkillsBuild (Credly) |
-| AWS Cloud Essentials | AWS Academy |
-| AWS Cloud Quest: Praticante de IA Generativa | AWS Skill Builder |
-
-### ⚙️ DevOps & Infraestrutura
-| Certificação | Emissor |
-|---|---|
-| DevOps e Agile Culture | FIAP |
-| DevOps | Santander + Alura |
-| DevOps Essentials | 4Linux |
-| Docker & Kubernetes Essentials | Linux Tips |
-| Linux Fundamentals | SENAI |
-
-### 🛠️ Desenvolvimento & Ferramentas
-| Certificação | Emissor |
-|---|---|
-| Python 3 – Do Básico ao Avançado | Udemy |
-| GitHub Fundamentals | GitHub Education |
-| Excel Avançado | Bradesco |
-
----
-
 ## 🔥 Projetos em Destaque
 
 ### 🤖 AI Farm Agent
@@ -141,19 +109,6 @@ Copilot técnico capaz de gerar planos de deploy, orientar boas práticas de seg
 Deployada em AWS EC2 com Nginx, PM2 e Docker.
 
 `Node.js` · `Socket.io` · `SVG Procedural Generation` · `Docker`
-
----
-
-### 🌱 Projeto Green
-> Projeto acadêmico para avaliação e incentivo de práticas sustentáveis.
-
-Desenvolvido para a faculdade, com o objetivo de incentivar boas práticas sustentáveis no dia a dia dos usuários.
-
-`Python`
-
-[🔗 Repositório](https://github.com/ognistie/Projeto-Green-)
-
----
 
 ## 📊 GitHub Stats
 
