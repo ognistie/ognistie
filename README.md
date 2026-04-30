@@ -90,6 +90,8 @@ Arquitetura hierárquica com agentes especializados (Maestro, Web, Code, Desktop
 
 `Python` · `Flask` · `SocketIO` · `Claude API` · `Playwright` · `PyAutoGUI`
 
+[🔗 Repositório](https://github.com/ognistie/AI-Farm-Agent)
+
 ---
 
 ### 🚀 CloudOps Copilot
@@ -109,6 +111,7 @@ Copilot técnico capaz de gerar planos de deploy, orientar boas práticas de seg
 Deployada em AWS EC2 com Nginx, PM2 e Docker.
 
 `Node.js` · `Socket.io` · `SVG Procedural Generation` · `Docker`
+[🔗 Repositório](https://github.com/ognistie/SkateRoom)
 
 ## 📊 GitHub Stats
 
