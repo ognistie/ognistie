@@ -85,7 +85,7 @@ I'm driven by a simple principle: **automate everything that can be automated, a
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
         <img src="https://img.shields.io/badge/PyAutoGUI-blue?style=flat-square" />
       </p>
-      <!-- <p align="center"><a href="https://github.com/ognistie/AI-Farm-Agent">📂 Repository</a></p> -->
+      < <p align="center"><a href="https://github.com/ognistie/AI-Farm-Agent">📂 Repository</a></p> -->
     </td>
     <td width="50%">
       <h3 align="center">🚀 <a href="https://github.com/ognistie/CloudOps-copilot">CloudOps Copilot</a></h3>
@@ -112,7 +112,7 @@ I'm driven by a simple principle: **automate everything that can be automated, a
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" />
       </p>
-      <!-- <p align="center"><a href="https://github.com/ognistie/SkateRoom">📂 Repository</a></p> -->
+      < <p align="center"><a href="https://github.com/ognistie/SkateRoom">📂 Repository</a></p> -->
     </td>
   </tr>
 </table>
@@ -121,24 +121,6 @@ I'm driven by a simple principle: **automate everything that can be automated, a
 
 ## Demo
 
-<!-- 
-  📹 COMO ADICIONAR SEU VÍDEO DO LINKEDIN:
-  
-  1. Baixe o vídeo do LinkedIn (use ferramentas como LinkedIn Video Downloader)
-  2. Renomeie para "demo.mp4"  
-  3. Coloque o arquivo na raiz do repositório ognistie/ognistie
-  4. Descomente o bloco abaixo
-  
-  ⚠️ O GitHub suporta .mp4 nativamente no README (max ~25MB por arquivo)
-     Se o vídeo for grande, considere compactar com:
-     ffmpeg -i original.mp4 -vcodec libx264 -crf 28 demo.mp4
--->
-
-<!--
-<p align="center">
-  <video src="demo.mp4" width="600" controls></video>
-</p>
--->
 
 > _Seção reservada para demo em vídeo — adicione um arquivo `demo.mp4` na raiz do repositório e descomente o bloco acima._
 
