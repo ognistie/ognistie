@@ -74,7 +74,7 @@ I'm driven by a simple principle: **automate everything that can be automated, a
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 AI Farm Agent</h3>
+      <h3 align="center">🤖 <a href="https://github.com/ognistie/AI-Farm-Agent">AI Farm Agent</a></h3>
       <p align="center">
         Multi-agent system that executes real tasks on a local machine via natural language. Hierarchical architecture with specialized agents — Maestro, Web, Code, Desktop, Vision — powered by Claude models.
       </p>
@@ -85,7 +85,6 @@ I'm driven by a simple principle: **automate everything that can be automated, a
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
         <img src="https://img.shields.io/badge/PyAutoGUI-blue?style=flat-square" />
       </p>
-      < <p align="center"><a href="https://github.com/ognistie/AI-Farm-Agent">📂 Repository</a></p> -->
     </td>
     <td width="50%">
       <h3 align="center">🚀 <a href="https://github.com/ognistie/CloudOps-copilot">CloudOps Copilot</a></h3>
@@ -102,7 +101,7 @@ I'm driven by a simple principle: **automate everything that can be automated, a
   </tr>
   <tr>
     <td width="50%" colspan="2">
-      <h3 align="center">🛹 SkateRoom</h3>
+      <h3 align="center">🛹 <a href="https://github.com/ognistie/SkateRoom">SkateRoom</a></h3>
       <p align="center">
         Watch party platform with procedurally generated SVG characters. Deployed on AWS EC2 with Nginx, PM2, and Docker.
       </p>
@@ -112,7 +111,6 @@ I'm driven by a simple principle: **automate everything that can be automated, a
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" />
       </p>
-      < <p align="center"><a href="https://github.com/ognistie/SkateRoom">📂 Repository</a></p> -->
     </td>
   </tr>
 </table>
@@ -121,8 +119,37 @@ I'm driven by a simple principle: **automate everything that can be automated, a
 
 ## Demo
 
+<!-- 
+  O GitHub não suporta embed de vídeos do LinkedIn nem iframes.
+  Também não renderiza .mp4 maiores que ~10MB de forma confiável.
+  
+  A solução abaixo usa uma imagem como thumbnail que linka direto
+  para o post do LinkedIn onde o vídeo está hospedado.
+  
+  Para personalizar: substitua "demo-thumbnail.png" por um 
+  screenshot/frame do seu vídeo e coloque na raiz do repositório.
+  Se não tiver thumbnail, o badge do LinkedIn já funciona sozinho.
+-->
 
-> _Seção reservada para demo em vídeo — adicione um arquivo `demo.mp4` na raiz do repositório e descomente o bloco acima._
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7453110643710255104/">
+    <img src="https://img.shields.io/badge/▶_Watch_Demo_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+</p>
+
+<!--
+  OPÇÃO EXTRA: se você quiser uma thumbnail visual acima do botão,
+  tire um screenshot do vídeo, salve como "demo-thumbnail.png" na 
+  raiz do repositório e descomente o bloco abaixo:
+-->
+
+<!--
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7453110643710255104/">
+    <img src="demo-thumbnail.png" alt="Demo Video" width="600" />
+  </a>
+</p>
+-->
 
 ---
 
