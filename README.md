@@ -121,7 +121,7 @@ I'm driven by a simple principle: **automate everything that can be automated, a
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7453110643710255104/">
-    <img src="https://raw.githubusercontent.com/ognistie/ognistie/main/miniatura-demo.png" alt="Demo Video" width="600" />
+    <img src="https://raw.githubusercontent.com/ognistie/ognistie/principal/miniatura-demo.png" alt="Demo Video" width="600" />
   </a>
 </p>
 
