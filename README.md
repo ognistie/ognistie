@@ -117,17 +117,17 @@ I'm driven by a simple principle: **automate everything that can be automated, a
 
 ---
 
-## Demo
+## AI Virtual Mouse
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7453110643710255104/">
-    <img src="https://github.com/ognistie/ognistie/blob/principal/miniatura-demo.png?raw=true" alt="Demo Video" width="600" />
+    <img src="thumbnail.png" alt="AI Virtual Mouse Demo" width="600" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7453110643710255104/">
-    <img src="https://img.shields.io/badge/▶_Watch_Demo_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    ▶ Watch on LinkedIn
   </a>
 </p>
 
