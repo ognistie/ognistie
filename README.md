@@ -119,37 +119,17 @@ I'm driven by a simple principle: **automate everything that can be automated, a
 
 ## Demo
 
-<!-- 
-  O GitHub não suporta embed de vídeos do LinkedIn nem iframes.
-  Também não renderiza .mp4 maiores que ~10MB de forma confiável.
-  
-  A solução abaixo usa uma imagem como thumbnail que linka direto
-  para o post do LinkedIn onde o vídeo está hospedado.
-  
-  Para personalizar: substitua "demo-thumbnail.png" por um 
-  screenshot/frame do seu vídeo e coloque na raiz do repositório.
-  Se não tiver thumbnail, o badge do LinkedIn já funciona sozinho.
--->
-
 <p align="center">
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7453110643710255104/">
-    <img src="https://img.shields.io/badge/▶_Watch_Demo_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="miniatura-demo.png" alt="Demo Video — Click to watch on LinkedIn" width="600" />
   </a>
 </p>
 
-<!--
-  OPÇÃO EXTRA: se você quiser uma thumbnail visual acima do botão,
-  tire um screenshot do vídeo, salve como "demo-thumbnail.png" na 
-  raiz do repositório e descomente o bloco abaixo:
--->
-
-<!--
 <p align="center">
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7453110643710255104/">
-    <img src="demo-thumbnail.png" alt="Demo Video" width="600" />
+    <img src="https://img.shields.io/badge/▶_Watch_Demo_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
--->
 
 ---
 
