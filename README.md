@@ -42,7 +42,7 @@ Meu foco principal está em **Cloud Computing**, **DevOps** e **automação de i
   </tr>
   <tr>
     <td>🎯 <b>Foco</b></td>
-    <td>Cloud · DevOps · Automação · IaC</td>
+    <td>Cloud · GenIA · Automação</td>
   </tr>
   <tr>
     <td>📬 <b>Contato</b></td>
