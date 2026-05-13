@@ -35,7 +35,6 @@ focus:     Generative AI · Cloud Architecture · AWS · DevOps
 
 I design and deploy cloud-native infrastructure on **AWS**, build **AI-powered agents** that automate real-world workflows, and apply **DevOps** practices to ship faster with confidence. My current work sits at the intersection of **Generative AI** and **Cloud Engineering** — using LLMs not just as chatbots, but as autonomous systems that execute tasks, manage infrastructure, and solve operational problems end-to-end.
 
-I'm driven by a simple principle: **automate everything that can be automated, and make the rest observable.**
 
 ---
 
