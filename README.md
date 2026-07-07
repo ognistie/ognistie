@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/guilherme-moraes-franco-b4b1a0353/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://blogpessoalgui.netlify.app/">
+  <a href="https://ognistie.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
   </a>&nbsp;
   <a href="mailto:og.guifranco@gmail.com">
