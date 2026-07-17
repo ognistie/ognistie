@@ -28,7 +28,7 @@
 ```yaml
 name:      Guilherme Moraes Franco
 role:      Developer FullStack & Cloud — IT Universe
-education: Computer Science — UNIP (2025–)
+education: Computer Science
 location:  São Paulo, BR
 focus:     Generative AI · Cloud Architecture · AI Agents · DevOps
 ```
