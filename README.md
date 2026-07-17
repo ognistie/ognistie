@@ -30,7 +30,7 @@ name:      Guilherme Moraes Franco
 role:      Developer FullStack & Cloud — IT Universe
 education: Computer Science — UNIP (2025–)
 location:  São Paulo, BR
-focus:     Generative AI · Cloud Architecture · AWS · DevOps
+focus:     Generative AI · Cloud Architecture · AI Agents · DevOps
 ```
 
 I design and deploy cloud-native infrastructure on **AWS**, build **AI-powered agents** that automate real-world workflows, and apply **DevOps** practices to ship faster with confidence. My current work sits at the intersection of **Generative AI** and **Cloud Engineering** — using LLMs not just as chatbots, but as autonomous systems that execute tasks, manage infrastructure, and solve operational problems end-to-end.
