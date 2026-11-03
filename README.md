@@ -27,10 +27,10 @@
 
 ```yaml
 name:      Guilherme Moraes Franco
-role:      Developer FullStack & Cloud — IT Universe
+role:      AI Engineer - Grupo Papaki
 education: Computer Science
 location:  São Paulo, BR
-focus:     Generative AI · Cloud Architecture · AI Agents · DevOps
+focus:     Generative AI · Cloud Architecture · AI Agents
 ```
 
 I design and deploy cloud-native infrastructure on **AWS**, build **AI-powered agents** that automate real-world workflows, and apply **DevOps** practices to ship faster with confidence. My current work sits at the intersection of **Generative AI** and **Cloud Engineering** — using LLMs not just as chatbots, but as autonomous systems that execute tasks, manage infrastructure, and solve operational problems end-to-end.
